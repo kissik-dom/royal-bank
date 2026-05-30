@@ -1,5 +1,7 @@
+export { AnalyticsPage } from "./AnalyticsPage";
+export { CardsPage } from "./CardsPage";
 export { DashboardPage } from "./DashboardPage";
 export { LandingPage } from "./LandingPage";
-export { LoginPage } from "./LoginPage";
+export { PremiumPage } from "./PremiumPage";
 export { SettingsPage } from "./SettingsPage";
-export { SignupPage } from "./SignupPage";
+export { TransfersPage } from "./TransfersPage";
